@@ -11,5 +11,5 @@ My name is **Oluwatosin**, I am a Solidity Smart Contract Developer
 - 🤔 I’m open to being part of great things
 - :speech_balloon: Ask me reasonable things
 - :mailbox: How to reach me: [@ankara4yanga](https://twitter.com/ankara4yanga)
-- :zap: Fun fact:  I enjoy cooking and I also like beautiful things.
+- :zap: Fun fact:  I enjoy cooking and love to listen to spiritual music
 
