@@ -6,8 +6,8 @@ My name is **Oluwatosin**, I am a Solidity Smart Contract Developer
 
 - :telescope: I’m currently working on amazing things.
 - :seedling:  I’m currently learning how to build smart contracts using solidity programming language and also building my frontend development skills
-- :dancers:   I’m looking to collaborate on amazing projects on Web development, Blockchain technology, ...
-- 🤔: I’m looking for help to learrning and working on interesting things
+- :dancers:   I’m looking to collaborate on amazing projects in Web3
+- 🤔: I’m looking for help to learning and working on interesting things
 - :mailbox: How to reach me: [Oluwatosin Serah](https://twitter.com/SerahOluwatosin)
 - :zap: Fun fact:  I enjoy cooking and love to listen to spiritual songs
 
