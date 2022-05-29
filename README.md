@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Oluwatosin**, I am a Solidity Smart Contract Developer
+My name is **Oluwatosin**
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sayrarh&show_icons=true&theme=radical)
 
