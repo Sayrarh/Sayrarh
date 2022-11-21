@@ -9,5 +9,5 @@ My name is **Oluwatosin, Welcome to my Github profile**
 - :dancers:   I’m looking to collaborate on amazing projects in Web3
 - 🤔: I’m looking for help to learning and working on interesting things
 - :mailbox: How to reach me: [Oluwatosin Serah](https://twitter.com/SerahOluwatosin)
-- :zap: Fun fact:  I enjoy cooking and love to listen to spiritual songs
+
 
