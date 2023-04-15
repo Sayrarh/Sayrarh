@@ -9,6 +9,6 @@ My name is **Oluwatosin Serah, I'm a Smart Contract Developer**
 - :seedling:  I’m currently learning how to build smart contracts using cairo programming language
 - :dancers:   I’m looking to collaborate on amazing projects in Web3
 - 🤔: I’m looking to work on interesting things
-- :mailbox: How to reach me: [Oluwatosin Serah](https://twitter.com/SerahOluwatosin)
+- :mailbox: How to reach me: [ajaotosinserah@gmail.com](ajaotosinserah@gmail.com)
 
 
