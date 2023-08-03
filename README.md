@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Oluwatosin Serah, I'm a Smart Contract Developer**
+My name is **Oluwatosin Serah, I'm a Smart Contract Developer and a Technical Writer**
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sayrarh&show_icons=true&theme=radical)
 
